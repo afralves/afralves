@@ -1,46 +1,85 @@
 <!-- Profile Header -->
-<h1 align="center" style="color:#f97316;">👋 Olá! Eu sou o Antonio Alves</h1>
-
-<p align="center"><strong>Engenheiro de Software</strong> com foco em desenvolver <strong>soluções robustas e escaláveis</strong>, priorizando <strong>código manutenível</strong> e boas práticas de engenharia de software.</p>
-
-<p align="center">
-  <a href="https://github.com/afralves">
-    <img src="https://komarev.com/ghpvc/?username=afralves&label=Visualizações&color=f97316&style=flat" alt="afralves" />
-  </a>
-</p>
-
-<hr style="border: none; height: 2px; background-color: #f97316; width: 60%; margin: 2rem auto;" />
-
-<!-- Tech Stack -->
-<h2 align="center" style="color:#f97316;">🚀 Tecnologias & Ferramentas</h2>
 
 <div align="center">
 
-<!-- Linguagens -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+# Olá! Eu sou o Antonio Alves
 
-<!-- Frontend / Fullstack -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<p>
+  <strong>Engenheiro de Software</strong> com foco em desenvolver
+  <strong>soluções robustas e escaláveis</strong>, priorizando
+  <strong>código manutenível</strong> e boas práticas de engenharia de software.
+</p>
 
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" height="40" alt="JUnit" />
+<br>
 
-<!-- Infraestrutura -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+## Tecnologias & Ferramentas
 
-<!-- Outros -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<table>
+<tr>
+
+<td align="center" width="25%">
+  <strong>💻 Languages</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js&theme=dark" height="40" alt="Java, Kotlin, JavaScript" />
+</td>
+
+<td align="center" width="25%">
+  <strong>⚙️ Backend</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="40" alt="Spring Ecosystem" />
+</td>
+
+<td align="center" width="25%">
+  <strong>🎨 Frontend</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" height="40" alt="React, Next.js" />
+</td>
+
+<td align="center" width="25%">
+  <strong>🗄️ Data</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" height="40" alt="PostgreSQL, MySQL, MongoDB, Redis" />
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+  <strong>🧪 Testing</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" height="24" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Mockito-2D2D2D?style=flat-square" height="24" alt="Mockito" />
+  <img src="https://img.shields.io/badge/WireMock-2D2D2D?style=flat-square" height="24" alt="WireMock" />
+</td>
+
+<td align="center" width="25%">
+  <strong>☁️ Cloud & Infra</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform&theme=dark" height="40" alt="AWS, Docker, Terraform" />
+</td>
+
+<td align="center" width="25%">
+  <strong>🔄 CI/CD</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=githubactions,gitlab&theme=dark" height="40" alt="GitHub Actions, GitLab CI/CD" />
+</td>
+
+<td align="center" width="25%">
+  <strong>📈 Observability</strong>
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="40" alt="Kibana" title="Kibana" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/newrelic" height="40" alt="New Relic" title="New Relic" />
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- Profile Views -->
+
+<img src="https://komarev.com/ghpvc/?username=afralves&label=Visualizações&color=f97316&style=flat" alt="Visualizações do perfil" />
 
 </div>
-
-<hr style="border: none; height: 2px; background-color: #f97316; width: 60%; margin: 2rem auto;" />
-
-
-
