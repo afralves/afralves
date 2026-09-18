@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center" style="color:#f97316;">👋 Olá! Eu sou o Antonio Alves</h1>
 
-<p align="center"><strong style="color:#f97316;">Engenheiro de Software</strong> apaixonado por criar soluções simples, eficientes e escaláveis usando <strong>Java</strong>, <strong>Spring Boot</strong> e muito mais.</p>
+<p align="center"><strong>Engenheiro de Software</strong> com foco em desenvolver <strong>soluções robustas e escaláveis</strong>, priorizando <strong>código manutenível</strong> e boas práticas de engenharia de software.</p>
 
 <p align="center">
   <a href="https://github.com/afralves">
