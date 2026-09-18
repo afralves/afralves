@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Olá! Eu sou o Antonio Alves
+<h1>Olá! Eu sou o Antonio Alves</h1>
 
 <p>
   <strong>Engenheiro de Software</strong> com foco em desenvolver
@@ -12,7 +12,7 @@
 
 <br>
 
-## Tecnologias & Ferramentas
+<h2>Tecnologias & Ferramentas</h2>
 
 <table>
 <tr>
