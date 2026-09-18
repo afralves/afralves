@@ -2,17 +2,21 @@
 
 <div align="center">
 
-<h1>Olá! Eu sou o Antonio Alves</h1>
+<h1>Software Engineer</h1>
 
-<p>
-  <strong>Engenheiro de Software</strong> com foco em desenvolver
-  <strong>soluções robustas e escaláveis</strong>, priorizando
-  <strong>código manutenível</strong> e boas práticas de engenharia de software.
+<p align="center">
+  Hi! I'm <strong>Antonio Alves</strong> 👋
+</p>
+
+<p align="center">
+  Software Engineer focused on building
+  <strong>robust and scalable solutions</strong>, prioritizing
+  <strong>maintainable code</strong> and software engineering best practices.
 </p>
 
 <br>
 
-<h2>Tecnologias & Ferramentas</h2>
+<h2>Technologies & Tools</h2>
 
 <table>
 <tr>
@@ -86,6 +90,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=afralves&label=Visualizações&color=f97316&style=flat" alt="Visualizações do perfil" />
+<img src="https://komarev.com/ghpvc/?username=afralves&label=Profile%20views&color=f97316&style=flat" alt="Profile views" />
 
 </div>
